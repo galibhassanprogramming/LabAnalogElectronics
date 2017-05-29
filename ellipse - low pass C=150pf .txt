@@ -1,0 +1,27 @@
+Freq		Volt
+5.85		6.8 x 500 milivolt
+			20 volt
+
+10.09		3 x 2 volt
+			20 volts
+
+15.22		8 volts
+			18.6 volts
+
+20.08		8.8 volts
+			14 volts
+
+25.2		9.0 volts
+			16 volts
+
+30.14		9.0 volts
+			14 volts
+
+35.2		9.0 volts
+			
+50			8.8 volts
+			11.2 volts
+
+
+
+
