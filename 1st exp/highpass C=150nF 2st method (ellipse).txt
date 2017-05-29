@@ -1,0 +1,7 @@
+Freq 	smaller		bigger
+
+134		7.6x500mv	8x500mv
+166.8	4.8x1 v 	4.4x1 v
+218.9	5.2x1 v 	6x1 v
+662		5.4x2 v 	2.2x2 v
+846		1.8x2 v		5.6x2 v

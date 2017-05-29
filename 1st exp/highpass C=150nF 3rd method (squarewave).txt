@@ -1,0 +1,7 @@
+121.4 khz		falltime: 2.8x250 nanosecond
+
+933
+963
+951
+935
+948
